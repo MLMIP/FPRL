@@ -1,6 +1,6 @@
 # FPRL
 
-![image](FPRL.jpg)
+![image](FPRL.png)
 
 This repository provides the official PyTorch implementation of the paper **Focus-to-Perceive Representation Learning: A Cognition-Inspired Hierarchical Framework for Endoscopic Video Analysis**, which has been accepted by **CVPR 2026**.  
 
