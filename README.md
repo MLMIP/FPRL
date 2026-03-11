@@ -8,7 +8,7 @@ This repository provides the official PyTorch implementation of the paper **Focu
 ---
 
 ## Installation
-We can install packages using provided `environment.yml`.
+We can install packages using provided `environment.yml`. For details, please refer to [EndoMamba](https://github.com/TianCuteQY/EndoMamba), and we thank the authors for their great work.
 
 ```shell
 cd FPRL
