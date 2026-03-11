@@ -15,7 +15,6 @@ from timm.models import create_model
 from optim_factory import create_optimizer
 from datasets import build_pretraining_dataset, build_pretraining_mixed_dataset, build_pretraining_pcf_dataset
 from engines.engine_for_pretraining import train_one_epoch
-# from engines.engine_for_test import train_one_epoch
 from utils import NativeScalerWithGradNormCount as NativeScaler
 from utils import multiple_pretrain_samples_collate, WandbLogger
 import utils
@@ -24,8 +23,7 @@ import contextlib
 from models.videomamba import *
 from models.auxiliary_decoder import AuxiliaryDecoder
 from models.projector import VideoTemporalProjector
-# from models.teacher_prior_adaptive_masking import MaskGenerator
-from models.mask_adapter import MaskGenerator
+from models.teacher_prior_adaptive_masking import MaskGenerator
 from models import modeling_pretrain
 
 def get_args():
