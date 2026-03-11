@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: stft_core
+Version: 0.1
+Summary: video object detection in pytorch
+Home-page: https://github.com/lingyunwu14/STFT
+Author: Lingyun
+License-File: LICENSE
+Dynamic: author
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: summary

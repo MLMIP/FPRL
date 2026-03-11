@@ -1,0 +1,9 @@
+# ninja log v5
+2	3631	1748224583793220236	/gaoxieping/dsh/EndoMamba/videomamba/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_update.o	e54150985ccbb189
+1	8196	1748224588347291368	/gaoxieping/dsh/EndoMamba/videomamba/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_fwd.o	f0fe5f6c17e35f78
+1	22543	1748224602672666995	/gaoxieping/dsh/EndoMamba/videomamba/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_bwd.o	70997956765818e8
+0	30714	1748224610841654182	/gaoxieping/dsh/EndoMamba/videomamba/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d.o	30a1a7c1408f1895
+37	5958	1751274599515764806	/gaoxieping/dsh/FCRMamba/videomamba/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_update.o	28245ae3f49d6dd
+37	11753	1751274605316660777	/gaoxieping/dsh/FCRMamba/videomamba/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_fwd.o	1b554d413eaa19f5
+36	25112	1751274618624704254	/gaoxieping/dsh/FCRMamba/videomamba/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_bwd.o	c417067de87686f3
+36	30056	1751274623591856503	/gaoxieping/dsh/FCRMamba/videomamba/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d.o	b33c9da7b9cf098a
