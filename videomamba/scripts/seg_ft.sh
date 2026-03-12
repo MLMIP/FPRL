@@ -3,7 +3,7 @@
 cd /gaoxieping/dsh/FPRL/videomamba/downstream/CVC-12kSegmentation
 
 python train.py \
-    --exp FCRMamba_MIX7_teacher \
+    --exp FPRL_MIX7_teacher \
     --gpu 0 \
     --batch_size 1 \
     --model endomambaseg_small \
@@ -11,5 +11,5 @@ python train.py \
     --seed 11 \
     --n_skip 3\
     --base_lr 1e-4 \
-    --out_dir /gaoxieping/dsh/FCRMamba/videomamba/out/Segmentation/
+    --out_dir ../../out/Segmentation/
     # --wandb True
