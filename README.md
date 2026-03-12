@@ -22,7 +22,7 @@ We use the datasets provided by [Endo-FM](https://github.com/med-air/Endo-FM) an
 ## weights
 pretrain weight:
 
-[pretrain](https://pan.baidu.com/s/1bu5s1-oi42mG74sF7EI21A?pwd=grvq)
+[pretrain](https://pan.baidu.com/s/1rW4A8d7gig8dNCeIc3SafQ?pwd=k7dv)
 
 downstream weight:
 
