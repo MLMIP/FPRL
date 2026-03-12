@@ -1,10 +1,6 @@
 #!/bin/bash
-# -*- coding: utf-8 -*-
-#export PYTHONPATH="$(cd "$(dirname "$0")/.." && pwd):$PYTHONPATH"
-# 激活 conda
-source /gaoxieping/miniconda3/etc/profile.d/conda.sh
-conda activate fcrmamba
-cd /gaoxieping/dsh/FCRMamba/videomamba/downstream/STFT
+
+cd /gaoxieping/dsh/FPRL/videomamba/downstream/STFT
 export TORCH_CUDA_ARCH_LIST="6.0;6.1;7.0;7.5;8.0;8.6"
 
 torchrun \
@@ -12,5 +8,5 @@ torchrun \
     tools/test_net.py \
     --master_port=$((RANDOM + 10000)) \
     --config-file configs/STFT/kumc_R_50_STFT.yaml \
-    MODEL.WEIGHT /gaoxieping/dsh/FCRMamba/videomamba/out/Detection/fcrmamba_small_b64_seqlen2withWeaker__withteacher_MIX7/model_final.pth \
-    OUTPUT_DIR /gaoxieping/dsh/FCRMamba/videomamba/out/Detection/fcrmamba_small_b64_seqlen2withWeaker__withteacher_MIX7
+    MODEL.WEIGHT /gaoxieping/dsh/FPRL/videomamba/out/Detection/fprl_small_b64_seqlen2withTest__withteacher_MIX7/model_final.pth \
+    OUTPUT_DIR /gaoxieping/dsh/FPRL/videomamba/out/Detection/fprl_small_b64_seqlen2withTest__withteacher_MIX7
