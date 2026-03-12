@@ -1,9 +1,6 @@
 #!/bin/bash
 
-# 激活 conda
-source /gaoxieping/miniconda3/etc/profile.d/conda.sh
-conda activate fcrmamba
-cd /gaoxieping/dsh/FCRMamba/videomamba
+cd /gaoxieping/dsh/FPRL/videomamba
 
 torchrun --nproc_per_node=2 video_sm/run_endomamba_pretraining.py \
   --batch_size 64 \
