@@ -1,8 +1,6 @@
 #!/bin/bash
-# 激活 conda
-source /gaoxieping/miniconda3/etc/profile.d/conda.sh
-conda activate fcrmamba
-cd /gaoxieping/dsh/FCRMamba/videomamba/downstream/CVC-12kSegmentation
+
+cd /gaoxieping/dsh/FPRL/videomamba/downstream/CVC-12kSegmentation
 
 python train.py \
     --exp FCRMamba_MIX7_teacher \
