@@ -30,9 +30,9 @@ downstream weight:
 
 [Segmentation]()
 
-[Detection]()
+[Detection](https://pan.baidu.com/s/1uKe3WOyYL72hrLg6kLLa6A?pwd=7tyv)
 
-[Recognition]()
+[Recognition](https://pan.baidu.com/s/16Cg2DN10W9fqChdyvlEfOg?pwd=9pr4)
 
 ## Pre-training
 ```shell
