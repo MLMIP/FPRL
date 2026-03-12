@@ -26,13 +26,13 @@ pretrain weight:
 
 downstream weight:
 
-[Classification](https://pan.baidu.com/s/1Wki0mUwxRfyT9ZOg7Ju_5Q?pwd=4yvd)
+[Classification]()
 
-[Segmentation](https://pan.baidu.com/s/1qrSVpMcdeCk7T-lHO7LvEA?pwd=tymi)
+[Segmentation]()
 
-[Detection](https://pan.baidu.com/s/164hNkuOGVXHs_8HEt-wHQQ?pwd=rpn4)
+[Detection]()
 
-[Recognition](https://pan.baidu.com/s/164hNkuOGVXHs_8HEt-wHQQ?pwd=rpn4)
+[Recognition]()
 
 ## Pre-training
 ```shell
