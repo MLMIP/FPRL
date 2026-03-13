@@ -17,18 +17,19 @@ conda activate FPRL
 ```
 
 ## Data Preparation
-We use the datasets provided by [Endo-FM](https://github.com/med-air/Endo-FM) and are grateful for their valuable work.
+We gratefully acknowledge the use of datasets from [Endo-FM](https://github.com/med-air/Endo-FM) and [SV-RCNet](https://github.com/YuemingJin/SV-RCNet), and thank the authors for their valuable work.
 
-## weights
+
+## Weights
 pretrain weight:
 
-[pretrain](https://pan.baidu.com/s/1rW4A8d7gig8dNCeIc3SafQ?pwd=k7dv)
+[Pretrain](https://pan.baidu.com/s/1rW4A8d7gig8dNCeIc3SafQ?pwd=k7dv)
 
 downstream weight:
 
-[Classification]()
+[Classification](https://pan.baidu.com/s/1VEMYXF3H6C2NoxD1B9B2Bw?pwd=ba2h)
 
-[Segmentation]()
+[Segmentation](https://pan.baidu.com/s/1nXzaXkziD55zVSzuvTw9xQ?pwd=82qk)
 
 [Detection](https://pan.baidu.com/s/1uKe3WOyYL72hrLg6kLLa6A?pwd=7tyv)
 
