@@ -1,4 +1,4 @@
-name: fprl
+name: FPRL
 channels:
   - defaults
 dependencies:
