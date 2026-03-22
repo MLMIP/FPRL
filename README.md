@@ -47,7 +47,7 @@ bash scripts/pretrain.sh
 cd FPRL/videomamba
 bash scripts/cls_ft.sh
 
-# CVC (Segmentation)
+# CVC-12k (Segmentation)
 cd FPRL/videomamba
 bash scripts/seg_ft.sh
 
