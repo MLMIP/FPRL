@@ -2,7 +2,7 @@
 
 cd /gaoxieping/dsh/FPRL/videomamba
 
-torchrun --nproc_per_node=2 video_sm/run_endomamba_pretraining.py \
+torchrun --nproc_per_node=4 video_sm/run_endomamba_pretraining.py \
   --batch_size 64 \
   --epochs 400 \
   --model "pretrain_endomamba_small_patch16_224" \
