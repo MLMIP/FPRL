@@ -66,7 +66,7 @@ Our code is based on [Endo-FM](https://github.com/med-air/Endo-FM), [VideoMamba]
 
 ## Citation
 ```
-@inproceedings{zhang2026fprl,
+@misc{zhang2026fprl,
   title={Focus-to-Perceive Representation Learning: A Cognition-Inspired Hierarchical Framework for Endoscopic Video Analysis},
   author={Zhang, Yuan and Dou, Sihao and Hu, Kai and Deng, Shuhua and Cao, Chunhong and Xiao, Fen and Gao, Xieping},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
