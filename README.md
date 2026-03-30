@@ -66,10 +66,13 @@ Our code is based on [Endo-FM](https://github.com/med-air/Endo-FM), [VideoMamba]
 
 ## Citation
 ```
-@misc{zhang2026fprl,
-  title={Focus-to-Perceive Representation Learning: A Cognition-Inspired Hierarchical Framework for Endoscopic Video Analysis},
-  author={Zhang, Yuan and Dou, Sihao and Hu, Kai and Deng, Shuhua and Cao, Chunhong and Xiao, Fen and Gao, Xieping},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  year={2026}
+@misc{zhang2026focustoperceiverepresentationlearningcognitioninspired,
+      title={Focus-to-Perceive Representation Learning: A Cognition-Inspired Hierarchical Framework for Endoscopic Video Analysis}, 
+      author={Yuan Zhang and Sihao Dou and Kai Hu and Shuhua Deng and Chunhong Cao and Fen Xiao and Xieping Gao},
+      year={2026},
+      eprint={2603.25778},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.25778}, 
 }
 ```
